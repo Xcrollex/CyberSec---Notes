@@ -9,9 +9,9 @@ https://www.revshells.com/
 
 ## Paginas con Maquinas para practicar
 
-https://dockerlabs.es/
-https://hackmyvm.eu/
-https://labs.thehackerslabs.com
+1. https://dockerlabs.es/
+2. https://hackmyvm.eu/
+3. https://labs.thehackerslabs.com
 
 # Write-Ups
 
