@@ -15,6 +15,8 @@ https://labs.thehackerslabs.com
 
 # Write-Ups
 
-## HackTheBox
-## Proving Grounds
-### Potato
+## Índice
+
+1. [HackTheBox](./HackTheBox/)
+2. [Proving Grounds](./ProvingGrounds/)
+   - [Potato](./ProvingGrounds/Potato.md)
